@@ -22,7 +22,8 @@ Argument specifies how many apple bags should be returned. If not specified, 3 b
 URL: `localhost:8080/market/`
 
 JSON: `{"quantity":null}`
-'null' can be replaced with number of bags that should be returned.
+
+'null' can be replaced with the number of bags that should be returned.
 
 ### Add a new apple bag to the market
 Argument specifies the apple bag that should be added to the market. This endpoint requires 3 arguments:
